@@ -1,1 +1,1 @@
-user=%7B%22id%22%3A5721227635%2C%22first_name%22%3A%22%E3%81%B7%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Fack_baba%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=6293376386413643249&chat_type=sender&auth_date=1728960274&hash=499b685ff124fb8e31f374521df14d667a3918f5a6c7b296a677f81038e2a1d3
+
